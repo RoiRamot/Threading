@@ -1,0 +1,13 @@
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.exe.config
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.exe
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.pdb
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\MainWindow.baml
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\MainWindow.g.cs
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\App.g.cs
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator_MarkupCompile.cache
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.g.resources
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.Properties.Resources.resources
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.csproj.GenerateResource.Cache
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.exe
+C:\projects\קורס .net\13.1\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.pdb

@@ -1,0 +1,6 @@
+C:\projects\קורס .net\13.1\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe.config
+C:\projects\קורס .net\13.1\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe
+C:\projects\קורס .net\13.1\SyncDemo\SyncDemo\bin\Debug\SyncDemo.pdb
+C:\projects\קורס .net\13.1\SyncDemo\SyncDemo\obj\Debug\SyncDemo.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\13.1\SyncDemo\SyncDemo\obj\Debug\SyncDemo.exe
+C:\projects\קורס .net\13.1\SyncDemo\SyncDemo\obj\Debug\SyncDemo.pdb
