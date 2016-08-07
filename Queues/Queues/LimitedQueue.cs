@@ -37,6 +37,5 @@ namespace Queues
 
         }
 
-        public object Lk { get; set; }
     }
 }
